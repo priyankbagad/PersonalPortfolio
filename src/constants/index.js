@@ -55,7 +55,7 @@ const words = [
   {
   title: "QuickMed – A Medication Management System",
   ppt: "https://www.canva.com/design/DAGuGG2y0HA/WS9WzLocZchDwI6u1oeI0Q/view?embed",
-  github: "https://github.com/priyankbagad/",
+  github: "https://github.com/priyankbagad/QuickMed",
   desc: "QuickMed is a smart medication reminder app that helps users manage their medication schedules by sending timely push notifications, improving adherence and promoting better health management."
   },
 
