@@ -35,13 +35,13 @@ const words = [
   {
   title: "SharkNinja – Mobile App Developer Internship",
   ppt: "https://www.canva.com/design/DAGry1TcFb4/9Jmiy95yEVCMAbfNLZejLA/view?embed",
-  github: "", // Add if you host any public sample repo
+  github: "https://github.com/priyankbagad/", // Add if you host any public sample repo
   desc: "Interning at SharkNinja as a Mobile App Developer, working on the SharkClean app with React Native, integrating Bluetooth-based robot controls, writing test automation, and collaborating in agile teams to enhance IoT-based home cleaning products.",
 },
 {
   title: "Tata Consultancy Services – Flutter Developer",
   ppt: "https://www.canva.com/design/DAGry4qcln4/JxkKZ0ieyyOIRD6bDsLIZg/view?embed",
-  github: "", // Add if you have code hosted
+  github: "https://github.com/priyankbagad/", // Add if you have code hosted
   desc: "Worked at TCS as a Flutter Developer on mobile banking applications for nationalized banks in India. Developed reusable UI components, improved app performance, and contributed to customer-centric banking solutions in fast-paced agile sprints.",
 },
 
@@ -51,6 +51,14 @@ const words = [
   github: "https://github.com/priyankbagad/eventopia",
   desc: "Eventopia is an event discovery and management platform featuring seamless Stripe payment integration and a user-friendly interface for both organizers and attendees."
   },
+
+  {
+  title: "QuickMed – A Medication Management System",
+  ppt: "https://www.canva.com/design/DAGuGG2y0HA/WS9WzLocZchDwI6u1oeI0Q/view",
+  github: "https://github.com/priyankbagad/",
+  desc: "QuickMed is a smart medication reminder app that helps users manage their medication schedules by sending timely push notifications, improving adherence and promoting better health management."
+  },
+
   {
   title: "HuskyTracks – Northeastern Lost & Found Portal",
   ppt: "https://www.canva.com/design/DAGmmZtdThY/CNLtPdvH4caEQz0_oUGOfg/view?embed",
@@ -78,7 +86,7 @@ const words = [
   {
   title: "Modernizing the MBTA – A New Approach to Operations & Commuter Management",
   ppt: "https://www.canva.com/design/DAGrH9HTeyk/zF4DjbB8xW64w0j43pK8XQ/view?embed",
-  github: "", // Add if available
+  github: "https://github.com/priyankbagad/", // Add if available
   desc: "Designed a Java Swing-based desktop application to modernize Boston’s MBTA operations by simulating commuter behavior, optimizing train scheduling, and reducing wait times. The tool models peak-hour congestion, integrates admin controls for data input, and visualizes operational metrics to support data-driven transit planning."  
   },
   {
@@ -96,13 +104,13 @@ const words = [
   {
   title: "Depression Detection using CNN & LSTM",
   ppt: "https://www.canva.com/design/DAGrHivWvg8/2GHA4fI7PBETcZ6i2oDEXg/view?embed",
-  github: "", // You can update this if you have code hosted
+  github: "https://github.com/priyankbagad/", // You can update this if you have code hosted
   desc: "A hybrid deep learning model combining CNN and LSTM to analyze social media posts for signs of depression. Achieved 93.41% accuracy in detection. Designed to assist mental health professionals in early identification and intervention.",
   },
   {
   title: "PAWnnect – IoT & ML Driven Pet Monitoring",
   ppt: "https://www.canva.com/design/DAGrHon6kRo/kuSfkkuTc_XRsmqzUpTMXg/view?embed",
-  github: "", // Add if hosted
+  github: "https://github.com/priyankbagad/", // Add if hosted
   desc: "Developed a smart dog monitoring system using GPS-enabled collars and health sensors to track activity, vitals, and location via a mobile app. Integrated ML algorithms for skin disease detection through image analysis, providing early diagnosis and care recommendations for pet owners.",
   },
 ];
